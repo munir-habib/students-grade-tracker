@@ -38,11 +38,9 @@ supabase/        migration, onboarding script, extract-syllabus Edge Function
 | 🟧 | `supabase/seed/` | Script that builds onboarding SQL from a student's Excel workbook |
 | ⬜ | `public/` and root files | Assets, Vite, TypeScript, ESLint and Vercel configuration |
 
-<!-- Demo: add your screenshots to docs/screenshots/ and uncomment.
 ## Demo
-![Home](docs/screenshots/home.png)
-[Watch the video](https://youtu.be/...)
--->
+
+[Watch the 1-minute demo video](https://youtu.be/ayQcSp380js)
 
 ## Run locally
 
